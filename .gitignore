@@ -1,0 +1,6 @@
+# ignore ide files
+.idea
+.vscode
+
+# system files
+.DS_Store
